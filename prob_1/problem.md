@@ -1,4 +1,4 @@
-# Problem 1
+# Problem 1 - `lazy_loading`
 
 Your task is to implement a component displaying a lazily loaded image gallery.
 
